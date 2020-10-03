@@ -315,7 +315,7 @@ a {
 
 }
 #klubovi .klubovi-top {
-    width: 400px;
+    width: 300px;
     max-width: 0 auto;
 }
 #klubovi .klubovi-top p {
@@ -607,6 +607,9 @@ a {
     }
     /* Zavrsetak hero */
     /* Klubovi */
+    #klubovi .klubovi-top {
+        width: 700px;
+    }
     #klubovi .klubovi-bottom .klubovi-item {
         flex-basis: 45%;
         margin: 1.5%;
