@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/e2Fi4FJyAJfQygGgdD/giphy.gif)
+
 # LeBronJamesJS-Responsive
 Responsive website for LeBron James. Made using HTML, CSS and Vanilla JS
 # Description
