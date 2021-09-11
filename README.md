@@ -8,3 +8,7 @@ Responsive website for LeBron James. Made using HTML, CSS and Vanilla JS
 * It is usable in on all platforms: mobile, tablet and desktop
 #
 [PREVIEW](https://samedskulj.github.io/LeBronJamesJS-Responsive/)
+
+# Deployment
+
+This site is deployed using GitHub Pages.
